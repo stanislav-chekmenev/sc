@@ -57,7 +57,7 @@ iface = gr.Interface(
     inputs=[salary_slider, self_employed],
     outputs=[net_salary],
     title="Salary Estimator",
-    description="Adjust the salary and toggle switch to see how the outputs change.",
+    description="Adjust the salary, choose if you are self-employed and see the estimated net salary.",
     article=explanation
 
 )
