@@ -1,0 +1,7 @@
+# Venv
+venv
+.venv
+
+# Cache
+__pycache__
+flagged
